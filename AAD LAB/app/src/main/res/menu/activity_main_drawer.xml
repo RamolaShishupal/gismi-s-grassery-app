@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_yoga"
+            android:icon="@drawable/ic_menu_yoga"
+            android:title="@string/menu_yoga" />
+        <item
+            android:id="@+id/nav_nutri"
+            android:icon="@drawable/ic_menu_nutrition"
+            android:title="@string/menu_nutri" />
+        <item
+            android:id="@+id/nav_gloss"
+            android:icon="@drawable/ic_menu_glossary"
+            android:title="@string/menu_gloss" />
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/ic_menu_contact"
+            android:title="@string/menu_contact" />
+    </group>
+</menu>

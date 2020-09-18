@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">SmartDoc</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">For a Healthier and Fitter You</string>
+    <string name="nav_header_subtitle">Here we go!!!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_prediction">Prediction</string>
+    <string name="menu_yoga">Yoga</string>
+    <string name="menu_nutri">Nutrition</string>
+    <string name="menu_gloss">Glossary</string>
+    <string name="menu_contact">Contact Us</string>
+
+    <string name="home_para1">SMARTDOC app is our way of contributing to the society\'s well-being by utilizing our potential as the youth of today to build a healthier population for a brighter tomorrow. It aims to provide an accurate medical diagnosis to all its users, free of cost and in the comfort of their homes.
+“SMARTDOC” is an initiative to assist users by predicting their diseases after they input their symptoms on our app. It is completely anonymous.</string>
+    <string name="home_para2">This app also provides you with an excellent medical glossary to answer your queries, yoga information the facility to find yoga near you
+        based on your pincode as well as nutritional facts to keep you healthy and fit (and happy too!).</string>
+    <string name="home_para3">Finally, you can contact us through email or call us from the app using the call feature provided. Feel free to visit our office by
+        clicking on the map to see the location or mail us your queries. We will be happy to respond to you. You can also let us know of any features or suggestions
+        you may have for SmartDoc and rate us as well. Thank you for downloading this app and we hope you have a great time using it.</string>
+
+    <string name="contact_para">Need help? Got questions to ask? Have some suggestions for us or want to give your valuable feedback? Then why wait! Visit us by clicking on the address
+        below to view our location on the map. You can also call us, mail us, text us or even better visit us by clicking on the respective icons given below.</string>
+    <string name="address_para">Star Galaxy Wing A1, Lokmanya Tilak Rd, Maharashtra Nagar, Borivali West, Mumbai - 400091.</string>
+    <string name="feedback_form_intro">We would be glad if you rate us so that we can enrich your \'SmartDoc\' visit next time.</string>
+</resources>
